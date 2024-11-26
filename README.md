@@ -7,7 +7,7 @@ I would like to express my gratitude to CodeClause IT Company for providing me w
 
 
 ## Features
-- **Multiple Models**: Logistic Regression.
+- **Machine Learning Model**: Logistic Regression.
 - **Interactive Predictions**: Accepts user inputs for real-time fraud detection.
 - **Comprehensive Evaluation**: Provides accuracy, precision, recall, F1-score, and confusion matrix for all models.
 
