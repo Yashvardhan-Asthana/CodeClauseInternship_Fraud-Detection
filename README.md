@@ -1,4 +1,4 @@
-# Fraud Detection System
+# Fraud Detection - Entry Level Project
 
 ## Overview
 This project is a **Fraud Detection**, an entry-level project assigned to me as part of my Data Science Internship at CodeClause IT Company. The system detects fraudulent transactions using machine learning techniques, leveraging methods such as oversampling and feature scaling to build an efficient and accurate classification model.
